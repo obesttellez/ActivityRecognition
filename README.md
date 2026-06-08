@@ -1,3 +1,4 @@
+### This is a fork, which i have fixed, to work for up to android 16. I also added a log of what is detected, as i was having difficulty making it work. 
 # ActivityRecognition
 
 ## Android User Activity Recognition – Still, Walking, Running, Driving 
